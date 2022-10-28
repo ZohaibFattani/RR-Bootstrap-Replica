@@ -8,7 +8,7 @@ const TopBar = () => {
     <div>
       <Navbar bg="light" expand="lg">
         <Navbar.Brand style={{ margin: "5px 0 0 20px" }} href="#home">
-          <img src="[Instacart logo src]" />
+          <img src="https://placekitten.com/200/300" />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

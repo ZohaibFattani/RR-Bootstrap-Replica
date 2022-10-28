@@ -18,7 +18,7 @@ const StoreListing = () => {
         >
           <Row>
             <Col xs=".5">
-              <Image src="[IMG SRC]" roundedCircle />
+              <Image src="https://placekitten.com/200/300" roundedCircle />
             </Col>
             <Col>
               <h5 style={{ fontWeight: "bold" }}>ALDI</h5>
@@ -28,7 +28,7 @@ const StoreListing = () => {
           <Col sm="1"></Col>
           <Row>
             <Col xs=".5">
-              <Image src="[IMG SRC]" roundedCircle />
+              <Image src="https://placekitten.com/200/300" roundedCircle />
             </Col>
             <Col>
               <h5 style={{ fontWeight: "bold" }}>Sprouts Farmers Market</h5>
@@ -38,7 +38,7 @@ const StoreListing = () => {
           <Col sm="1"></Col>
           <Row>
             <Col xs=".5">
-              <Image src="[IMG SRC]" roundedCircle />
+              <Image src="https://placekitten.com/200/300" roundedCircle />
             </Col>
             <Col md="6">
               <h5 style={{ fontWeight: "bold" }}>Kroger</h5>
